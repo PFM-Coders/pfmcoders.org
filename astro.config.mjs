@@ -5,6 +5,6 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://pfm-coders.github.io',
+  site: 'https://pfmcoders.org',
   integrations: [tailwind(), sitemap()]
 });
