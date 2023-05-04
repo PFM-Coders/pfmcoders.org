@@ -2,7 +2,9 @@
 
 ## Tech Stack
 
-**Frontend:** Astro, TailwindCSS, Typescript.
+**Frontend:** Astro, TailwindCSS, Typescript
+
+**Hosting:** GitHub Pages
 
 ## Run Locally
 
